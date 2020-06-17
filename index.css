@@ -34,7 +34,6 @@ body {
   position: absolute;
   height: 0;
   top: 0;
-  overflow: hidden;
  }
 
 #blackout {
